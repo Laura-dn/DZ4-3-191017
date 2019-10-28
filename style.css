@@ -1,0 +1,22 @@
+section {
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial;
+    color: white;
+}
+.smallText {
+    font-size: 0.8em;
+    color: black;
+}
+dt {
+    background-color: rgb(58, 107, 109);
+    padding: 10px 10px 10px 50px;
+}
+dd {
+    background-color: teal;
+    margin-inline-start: 0;
+    padding: 10px 20px 15px 20px;
+}
+dt:nth-child(3) {margin-top: 20px;}
+dt:nth-child(5) {margin-top: 20px;}
+p:nth-child(7) {margin-top: 20px;}
